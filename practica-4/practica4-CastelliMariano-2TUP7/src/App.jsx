@@ -4,7 +4,7 @@ import AddTasks from './components/addTasks/AddTasks'
 import { useState } from 'react';
 import Tasks from './components/tasks/Tasks';
 
-
+/* */
 
 const TASKS = [
   {
